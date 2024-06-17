@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -322,8 +321,4 @@
                 <h3>cut down</h3>
                 <p><strong>Translation:</strong> reducir, talar<br>
                 <strong>Explanation:</strong> To reduce the amount of something or to cut a tree so that it falls.</p>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+        
